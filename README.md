@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=green&height=300&section=header&text=TROOPY's%20GitHub&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn&type=slice&color=green&height=300&section=header&text=TROOPY's%20GitHub&fontSize=90)
 <!--
 **kdh042801/kdh042801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
