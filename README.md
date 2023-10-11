@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdh042801&show_icons=true&theme=cobalt)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh04280)](https://solved.ac/kdh04280/)
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-006600.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-615EFF.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-68BC71.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=black)
 <!--
 **kdh042801/kdh042801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
