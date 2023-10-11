@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=A9BCF5&height=300&section=header&text=TROOPY's%20GitHub&fontSize=90&animation=blink)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh04280)](https://solved.ac/kdh04280/)
 <!--
 **kdh042801/kdh042801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
