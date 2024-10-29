@@ -93,17 +93,11 @@
             <mxPoint x="820" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wcm3k-BIZdk4OcxOzG8L-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="C-vyLk0tnHw3VtMMgP7b-13">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="950" y="590" as="sourcePoint" />
-            <mxPoint x="1340" y="590" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-13" value="댓글" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="950" y="570" width="650" height="480" as="geometry" />
+          <mxGeometry x="610" y="580" width="640" height="400" as="geometry" />
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-14" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="C-vyLk0tnHw3VtMMgP7b-13" vertex="1">
-          <mxGeometry y="30" width="650" height="30" as="geometry" />
+          <mxGeometry y="30" width="640" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-15" value="PK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" parent="C-vyLk0tnHw3VtMMgP7b-14" vertex="1">
           <mxGeometry width="30" height="30" as="geometry">
@@ -111,25 +105,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-16" value="comment_id int NOT NULL AUTO_INCREMENT" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" parent="C-vyLk0tnHw3VtMMgP7b-14" vertex="1">
-          <mxGeometry x="30" width="620" height="30" as="geometry">
-            <mxRectangle width="620" height="30" as="alternateBounds" />
+          <mxGeometry x="30" width="610" height="30" as="geometry">
+            <mxRectangle width="610" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-17" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="C-vyLk0tnHw3VtMMgP7b-13" vertex="1">
-          <mxGeometry y="60" width="650" height="120" as="geometry" />
+          <mxGeometry y="60" width="640" height="120" as="geometry" />
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-18" value="FK1" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="C-vyLk0tnHw3VtMMgP7b-17" vertex="1">
           <mxGeometry width="30" height="120" as="geometry">
             <mxRectangle width="30" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C-vyLk0tnHw3VtMMgP7b-19" value="post_id INT&#xa;&#xa;user_id INT&#xa;&#xa;username VARCHJAR(20)&#xa;&#xa;shipment_date date NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="C-vyLk0tnHw3VtMMgP7b-17" vertex="1">
-          <mxGeometry x="30" width="620" height="120" as="geometry">
-            <mxRectangle width="620" height="120" as="alternateBounds" />
+        <mxCell id="C-vyLk0tnHw3VtMMgP7b-19" value="post_id INT&#xa;&#xa;user_id INT&#xa;&#xa;username VARCHJAR(20)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="C-vyLk0tnHw3VtMMgP7b-17" vertex="1">
+          <mxGeometry x="30" width="610" height="120" as="geometry">
+            <mxRectangle width="610" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-20" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="C-vyLk0tnHw3VtMMgP7b-13" vertex="1">
-          <mxGeometry y="180" width="650" height="220" as="geometry" />
+          <mxGeometry y="180" width="640" height="220" as="geometry" />
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-21" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="C-vyLk0tnHw3VtMMgP7b-20" vertex="1">
           <mxGeometry width="30" height="220" as="geometry">
@@ -137,14 +131,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-22" value="comment_content TEXT NOT NULL&#xa;&#xa;comment_created TIMESTAMP DEFAULT CURRENT_TIMESTAMP&#xa;&#xa;comment_updated TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP&#xa;&#xa;status ENUM(&#39;visible&#39;, &#39;hidden&#39;, &#39;deleted&#39;) DEFAULT &#39;visible&#39;&#xa;&#xa;     &#xa;    FOREIGN KEY (post_id) REFERENCES posts(post_id) ON DELETE CASCADE &#xa;&#xa;FOREIGN KEY (user_id) REFERENCES users(user_id) ON DELETE SET NULL " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="C-vyLk0tnHw3VtMMgP7b-20" vertex="1">
-          <mxGeometry x="30" width="620" height="220" as="geometry">
-            <mxRectangle width="620" height="220" as="alternateBounds" />
+          <mxGeometry x="30" width="610" height="220" as="geometry">
+            <mxRectangle width="610" height="220" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wcm3k-BIZdk4OcxOzG8L-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="940" y="750" as="sourcePoint" />
-            <mxPoint x="1310" y="750" as="targetPoint" />
+            <mxPoint x="610" y="770" as="sourcePoint" />
+            <mxPoint x="980" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1250" y="770" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
